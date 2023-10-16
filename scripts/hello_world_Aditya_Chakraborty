@@ -1,0 +1,6 @@
+# LANGUAGE: Python
+# ENV: Python
+# AUTHOR: Aditya Chakraborty
+# GITHUB: https://github.com/adityachakraborty-tech
+
+print ("Hello World!")
